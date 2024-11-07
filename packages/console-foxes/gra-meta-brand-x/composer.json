@@ -1,0 +1,13 @@
+{
+    "name": "console-foxes/gra-meta-brand-x",
+    "type": "metapackage",
+    "require": {
+        "console-foxes/gra-meta-foundation": "~1.0",
+        "console-foxes/module-local": "~1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    }
+}
